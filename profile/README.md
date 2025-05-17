@@ -6,7 +6,7 @@
   * [Contact Information](#contact-information)
 
 Hey there :wave:, welcome to **Orbita Studios**! We are a team of enthusiasts which love the Source Engine. Our goal is 
-to bring modern-day graphics to the Source Engine, with additional support for other platforms, we also want to make playable, or great Source Engine modifications.
+to bring modern-day graphics to the Source Engine, with additional support for other platforms, we also want to make High Quality Source Engine projects.
 We (the developers) come together to make "Heavily modified Source Engine" which is meant for modern day use.
 
 ## OS and Architecture
