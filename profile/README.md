@@ -3,11 +3,16 @@
 **TABLE OF CONTENTS**
 * [Orbita Studios](#orbita-studios)
   * [OS and Architecture](#os-and-architecture)
+  * [Projects](#projects)
   * [Contact Information](#contact-information)
 
 Hey there :wave:, welcome to **Orbita Studios**! We are a team of enthusiasts which love the Source Engine. Our goal is 
 to bring modern-day graphics to the Source Engine, with additional support for other platforms, we also want to make High Quality Source Engine projects.
 We (the developers) come together to make "Heavily modified Source Engine" which is meant for modern day use.
+
+## Projects
+* [Lambda Complex: Source](https://github.com/OrbitaStudios/LambdaComplexSource) - A faithful recreation of the original GoldSrc game Opposing Force on the Source 1 engine
+* [NULLVECTOR](https://github.com/OrbitaStudios/NULLVECTOR) - A CSGO modification which backports every Alien Swarm based game (which was included in the leak) to the CSGO engine branch, including entities, npcs, and weapons
 
 ## OS and Architecture
 > [!NOTE]
