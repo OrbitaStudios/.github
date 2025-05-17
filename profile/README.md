@@ -10,6 +10,9 @@ to bring modern-day graphics to the Source Engine, with additional support for o
 We (the developers) come together to make "Heavily modified Source Engine" which is meant for modern day use.
 
 ## OS and Architecture
+> [!NOTE]
+> The following information is for [Lambda Complex: Source](https://github.com/OrbitaStudios/LambdaComplexSource)
+
 | Platform 🐧| Supported? ✅ | Known bugs ⚠️ |
 | ---------- | --------------| ------------- |
 | Emscripten | Yes | Compiling issues, such as not getting defintions from included headers |
