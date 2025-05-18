@@ -11,19 +11,16 @@ to bring modern-day graphics to the Source Engine, with additional support for o
 We (the developers) come together to make "Heavily modified Source Engine" which is meant for modern day use.
 
 ## Projects
-* [Lambda Complex: Source](https://github.com/OrbitaStudios/LambdaComplexSource) - A faithful recreation of the original GoldSrc game Opposing Force on the Source 1 engine
+* [Lambda Complex: Source](https://github.com/OrbitaStudios/LambdaComplexSource) - A faithful recreation of the original GoldSrc game Opposing Force and a "heavily modified Source Engine", this "Heavily modified Source Engine" will be used as a base project for upcoming projects.
 
 ## OS and Architecture
-> [!NOTE]
-> The following information is for [Lambda Complex: Source](https://github.com/OrbitaStudios/LambdaComplexSource)
-
-| Platform 🐧| Supported? ✅ | Known bugs ⚠️ |
-| ---------- | --------------| ------------- |
-| Emscripten | Yes | Compiling issues, such as not getting defintions from included headers |
-| Linux | Yes (depending on architecture, and distribution) | LFS distributions are **NOT** supported, and x86_64 compiling (native x64) is not supported at all |
-| Windows | No | MSVC compiler is not supported |
-| OSX | Yes (depending on the architecture) | Does not work on x64, and versions below OSX 10.14.6 but not under 10.5.8 |
-| FreeBSD | Yes (depending on the compiler) | Same issues with compiler x86_64 on Linux |
+| Platform 🐧| Supported? ✅ | Known bugs ⚠️ | Project Name
+| ---------- | --------------| ------------- | ------------ |
+| Emscripten | Yes | Compiling issues, such as not getting defintions from included headers | Lambda Complex: Source |
+| Linux | Yes (depending on architecture, and distribution) | LFS distributions are **NOT** supported, and x86_64 compiling (native x64) is not supported at all | Lambda Complex: Source
+| Windows | No | MSVC compiler is not supported | Lambda Complex: Source |
+| OSX | Yes (depending on the architecture) | Does not work on x64, and versions below OSX 10.14.6 but not under 10.5.8 | Lambda Complex: Source |
+| FreeBSD | Yes (depending on the compiler) | Same issues with compiler x86_64 on Linux | Lambda Complex: Source
 | Android | No | |
 
 ## Contact information
