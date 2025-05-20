@@ -23,7 +23,10 @@ We (the developers) come together to make "Heavily modified Source Engine" which
 | Windows | No | MSVC compiler is not supported | Lambda Complex: Source |
 | OSX | Yes (depending on the architecture) | Does not work on x64, and versions below OSX 10.14.6 but not under 10.5.8 | Lambda Complex: Source |
 | FreeBSD | Yes (depending on the compiler) | Same issues with compiler x86_64 on Linux | Lambda Complex: Source
-| Android | No | |
+| Android | No | | |
+
+> [!NOTE]
+> Most issues stem from compiler quirks or platform-specific support. I'm working on it.
 
 ## Contact information
 Contact the following emails or join the Discord:
